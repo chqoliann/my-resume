@@ -16,3 +16,4 @@
 Python
 Django Framework
 Проекты
+django_project, 
