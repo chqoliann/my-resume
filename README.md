@@ -33,6 +33,10 @@ Django Framework
 
 
 Проекты
+
+
+
+
 Название проекта: django_project
 
 
